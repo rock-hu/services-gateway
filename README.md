@@ -2,20 +2,20 @@
 
 📚 Getting Started
 
-| artifactId                       | port | prefixes |
-| -------------------------------- | ---- | -------- |
-| statements-services              | ``   | ``       |
-| standing-orders-services         | ``   | ``       |
-| scheduled-payments-services      | ``   | ``       |
-| products-services                | ``   | ``       |
-| parties-services                 | ``   | ``       |
-| account-access-consents-services | ``   | ``       |
-| balances-services                | ``   | ``       |
-| beneficiaries-services           | ``   | ``       |
-| direct-debits-services           | ``   | ``       |
-| offers-services                  | ``   | ``       |
-| transactions-services            | ``   | ``       |
-| accounts-services                | ``   | ``       |
+|            artifactId            |   port    | prefixes |
+|----------------------------------|-----------|----------|
+| statements-services              | ``   | `` |
+| standing-orders-services         | ``   | `` |
+| scheduled-payments-services      | ``   | `` |
+| products-services                | ``   | `` |
+| parties-services                 | ``   | `` |
+| account-access-consents-services | ``   | `` |
+| balances-services                | ``   | `` |
+| beneficiaries-services           | ``   | `` |
+| direct-debits-services           | ``   | `` |
+| offers-services                  | ``   | `` |
+| transactions-services            | ``   | `` |
+| accounts-services                | ``   | `` |
 
 ## maven
 
