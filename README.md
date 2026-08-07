@@ -2,20 +2,48 @@
 
 📚 Getting Started
 
-|            artifactId            |   port    | prefixes |
-|----------------------------------|-----------|----------|
-| statements-services              | ``   | `` |
-| standing-orders-services         | ``   | `` |
-| scheduled-payments-services      | ``   | `` |
-| products-services                | ``   | `` |
-| parties-services                 | ``   | `` |
-| account-access-consents-services | ``   | `` |
-| balances-services                | ``   | `` |
-| beneficiaries-services           | ``   | `` |
-| direct-debits-services           | ``   | `` |
-| offers-services                  | ``   | `` |
-| transactions-services            | ``   | `` |
-| accounts-services                | ``   | `` |
+| artifactId                       | port | prefixes |
+| -------------------------------- | ---- | -------- |
+| statements-services              | ``   | ``       |
+| standing-orders-services         | ``   | ``       |
+| scheduled-payments-services      | ``   | ``       |
+| products-services                | ``   | ``       |
+| parties-services                 | ``   | ``       |
+| account-access-consents-services | ``   | ``       |
+| balances-services                | ``   | ``       |
+| beneficiaries-services           | ``   | ``       |
+| direct-debits-services           | ``   | ``       |
+| offers-services                  | ``   | ``       |
+| transactions-services            | ``   | ``       |
+| accounts-services                | ``   | ``       |
+
+
+```bash
+mvn dependency:tree > dependency-tree.log
+mvn dependency:list > dependency-list.log
+```
+
+## [Spring Cloud 2025.1 Release Notes](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2025.1-Release-Notes)
+
+## 2025.1.2 (2026-06-11)
+
+- Spring Cloud Netflix 5.0.2
+- Spring Cloud Stream 5.0.2
+- Spring Cloud Config 5.0.4
+- Spring Cloud Consul 5.0.2
+- Spring Cloud Circuitbreaker 5.0.2
+- Spring Cloud Starter Build 2025.1.2
+- Spring Cloud Build 5.0.2
+- Spring Cloud Gateway 5.0.2
+- Spring Cloud Bus 5.0.2
+- Spring Cloud Contract 5.0.3
+- Spring Cloud Vault 5.0.2
+- Spring Cloud Task 5.0.2
+- Spring Cloud Function 5.0.3
+- Spring Cloud Kubernetes 5.0.2
+- Spring Cloud Commons 5.0.2
+- Spring Cloud Openfeign 5.0.2
+- Spring Cloud Zookeeper 5.0.2
 
 ## maven
 
